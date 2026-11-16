@@ -26,7 +26,7 @@ Your task is to build out the project to the designs inside the `/design` folder
 
 The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
 
-If you would like the Figma design file to gain experience using professional tools and build more accurate projects faster, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
+This is a Free+ challenge, so you can also download the Figma design file from the same place you got this starter code. Working from it gives you exact values for styles like `font-size`, `padding` and `margin`, and practice with professional tools.
 
 You will find all the required assets in the `/images` folder. The assets are already optimized.
 
